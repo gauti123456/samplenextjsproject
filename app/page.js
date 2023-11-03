@@ -7,6 +7,7 @@ export default function Home() {
       <div>
         <h1>Hello world this is the main Page</h1>
         <Link href="/users">Go to Users</Link>
+        <p>This is the paragraph</p>
       </div>
     </main>
   )
